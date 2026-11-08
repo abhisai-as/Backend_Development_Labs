@@ -4,8 +4,8 @@
 > **API Books Endpoint:** [https://bdf-lab-03-dsxp.onrender.com/books](https://bdf-lab-03-dsxp.onrender.com/books)
 
 ## Student Information
-- **Student Name:** TANINKI GOVINDA SAI KIRAN 
-- **Registration Number:** 252U1R8092 
+- **Student Name:** GOVINDU ABHISAI
+- **Registration Number:** 252U1R6086
 - **Course:** Backend Development Fundamentals (BDF)
 - **Institution:** Aurora Deemed to be University
 
