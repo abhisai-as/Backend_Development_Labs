@@ -3,9 +3,9 @@
 Course repository for **Backend Development Fundamentals (BDF)** at **Aurora Deemed to be University**.
 
 ## Student Information
-- **Student Name:** TANINKI GOVINDA SAI KIRAN 
-- **Registration Number:** 252U1R8092 
-- **Class / Section:** B.Tech CSE(QE) – 2B / S-13 204
+- **Student Name:** GOVINDU ABHISAI 
+- **Registration Number:** 252U1R6086 
+- **Class / Section:** B.Tech CSE(AIML)- 2B / 207
 
 ---
 
