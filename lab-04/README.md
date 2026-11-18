@@ -112,7 +112,9 @@ The server will start at `http://localhost:3000`.
 ## Screenshots
 
 ### 1. Successful Registration
-![Successful Registration](screenshots/01_register_success.png)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/27dd57fc-83d2-4b81-a364-f19d8b6fbd4d" />
+
+
 
 ### 2. Duplicate Username Error
 ![Duplicate Username](screenshots/02_register_duplicate.png)
