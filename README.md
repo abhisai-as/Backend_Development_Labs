@@ -13,9 +13,9 @@ Course repository for **Backend Development Fundamentals (BDF)** at **Aurora Dee
 
 | Lab | Title | Directory | Live Deployment URL | Status |
 |:---:|---|:---:|:---:|:---:|
-| **01** | **Node.js and Express Server** | [`lab-01/`](./lab-01/) | [bdf-lab-01-tv0i.onrender.com](https://bdf-lab-01-tv0i.onrender.com) | **Completed & Live** |
-| **02** | **SQLite Database and CRUD Routes** | [`lab-02/`](./lab-02/) | [backend-development-fundamentals-1-fzeu.onrender.com](https://backend-development-fundamentals-1-fzeu.onrender.com) | **Completed & Live** |
-| **03** | **RESTful Books API with Filtering & Sorting** | [`Lab3/`](./Lab3/) | [bdf-lab-03-dsxp.onrender.com](https://bdf-lab-03-dsxp.onrender.com) | **Completed & Live** |
+| **01** | **Node.js and Express Server** | [`lab-01/`](./lab-01/) | [bdf-lab-01-abhisai.onrender.com](https://bdf-lab-01-abhisai.onrender.com) | **Completed & Live** |
+| **02** | **SQLite Database and CRUD Routes** | [`lab-02/`](./lab-02/) | [bdf-lab-02-abhisai.onrender.com](https://bdf-lab-02-abhisai.onrender.com) | **Completed & Live** |
+| **03** | **RESTful Books API with Filtering & Sorting** | [`Lab3/`](./Lab3/) | [bdf-lab-03-abhisai.onrender.com](https://bdf-lab-03-abhisai.onrender.com) | **Completed & Live** |
 
 ---
 
