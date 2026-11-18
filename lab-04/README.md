@@ -112,27 +112,32 @@ The server will start at `http://localhost:3000`.
 ## Screenshots
 
 ### 1. Successful Registration
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/27dd57fc-83d2-4b81-a364-f19d8b6fbd4d" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/5825fdf6-c0ff-4cfd-8393-b5bd13ebf7b3" />
+
 
 
 
 ### 2. Duplicate Username Error
-![Duplicate Username](screenshots/02_register_duplicate.png)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/03fd30eb-342a-4a2b-aeff-69e5144a4ae7" />
+
 
 ### 3. Successful Login
-![Successful Login](screenshots/03_login_success.png)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/9084a823-b8c1-4762-addf-39d72698b86b" />
+
 
 ### 4. Login — Wrong Password
-![Wrong Password](screenshots/04_login_wrong_password.png)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8199ddb5-dbdd-4d3f-9ba1-07f63fa4bec3" />
+
 
 ### 5. Login — User Not Found
-![User Not Found](screenshots/05_login_user_not_found.png)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8199ddb5-dbdd-4d3f-9ba1-07f63fa4bec3" />
+
 
 ### 6. JWT Decoded at jwt.io
-![JWT Decoded](screenshots/06_jwt_decoded.png)
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8199ddb5-dbdd-4d3f-9ba1-07f63fa4bec3" />
 ### 7. Database — Hashed Passwords
-![Database View](screenshots/07_database_hashes.png)
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8199ddb5-dbdd-4d3f-9ba1-07f63fa4bec3" />
 
 ---
 
