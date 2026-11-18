@@ -1,0 +1,25 @@
+{
+  "name": "bdf-lab-04",
+  "version": "1.0.0",
+  "description": "Lab 04 - Registration, Login and JWT Authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "jwt",
+    "bcrypt",
+    "authentication"
+  ],
+  "author": "GOVINDU ABHISAI",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  }
+}
